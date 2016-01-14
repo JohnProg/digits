@@ -1,0 +1,3 @@
+rootProject.name = 'Digits'
+
+include ':app'
