@@ -3,8 +3,8 @@
 Next time you visit your favorite destination, have your local contacts at your finger tips!
 
 #### Uses
-react-native-contacts
-react-native-db-modules
+- react-native-contacts
+- react-native-db-modules
 
 ## Back Story
 I find myself on the go a lot. Luckily for me, over the past few years my network has extended into many cities. Now when I visit somewhere away from home I ask myself, who do I know here? I've always had a particularly hard time deciphering between the sexes in my addressbook. As a single guy and an avid party host, determining what girls I could potentially invite on a date or to whatever event was a question posed many a night. Many would argue that step 1 is to have those particular numbers in your phone, but after that it was up to you to find those numbers. I've always wanted an easy way to split my contacts by gender. With this app, I aim to solve this problem. 
